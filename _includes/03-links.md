@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[OSG Stuff](https://osgcorp.sharepoint.com/SitePages/Home.aspx)
